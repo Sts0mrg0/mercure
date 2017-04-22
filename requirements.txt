@@ -15,19 +15,19 @@ django-axes==2.3.2
 # Data parsing
 beautifulsoup4==4.5.3
 html5lib==1.0b10
-cchardet==1.1.3
+cchardet==2.0.0
 
 # Networking
 requests==2.13.0
 
 # Utils
-django-model-utils==2.6.1
+django-model-utils==3.0.0
 pyshorteners==0.6.0
 pytz==2017.2
 unipath==1.1
 
 # Testing
-selenium==3.0.2
+selenium==3.4.0
 
 # Documentation
 sphinx==1.5.5
